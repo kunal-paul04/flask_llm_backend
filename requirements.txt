@@ -1,0 +1,7 @@
+flask
+psycopg2-binary
+python-dotenv
+flask-cors
+flask-talisman
+flask-limiter
+flask-jwt-extended
